@@ -11,3 +11,9 @@ Write a function that takes a song's name and its length in minutes. Use the pro
 
 ## Task 2: Total Playlist Length
 Write a function that takes the lengths of the songs and calculates the total length of the playlist. The function should return the total rather than print it.
+
+## Task 3: Average Song Length
+Write a function that calculates the average length of the songs in the playlist. The function should return the average song length. 
+
+## Task 4: Playlist Summary
+Use your functions to create a playlist summary. Display the song information, total playlist length, and average song length. 
